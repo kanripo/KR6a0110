@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說三轉法輪經
+#+DATE: 2015-08-30 19:31:44.342413
+#+PROPERTY: JUAN 0
